@@ -1,0 +1,21 @@
+Formulae ==>
+asciiquarium		guile			luv			pkg-config
+aws-vault		htop			m4			pwgen
+awscli			icu4c			mockery			python@3.11
+bdw-gc			jansson			mpdecimal		python@3.9
+berkeley-db		libevent		msgpack			ranger
+brotli			libffi			n			readline
+c-ares			libidn2			ncurses			screenresolution
+ca-certificates		libnghttp2		neofetch		six
+cmatrix			libtasn1		neovim			sqlite
+docutils		libtermkey		nettle			tmux
+emacs			libtool			newrelic-infra-agent	tree-sitter
+gdbm			libunistring		node			unbound
+gettext			libuv			openssl@1.1		unibilium
+gmp			libvterm		p11-kit			utf8proc
+gnutls			luajit			perl			xz
+
+==> Casks
+alacritty		chromium		notion			waterfox
+alt-tab			librewolf		qownnotes		waterfox-classic
+charles			macvim			rectangle		wine-stable

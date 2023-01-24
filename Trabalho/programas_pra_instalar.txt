@@ -1,0 +1,7 @@
+mpv
+telegram
+epson scan drivers
+QOwnNotes
+SequelPro
+Katalon
+KeyboardMaestro

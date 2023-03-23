@@ -1,0 +1,2 @@
+-Organizar o index das docs
+-Criar o fluxo do base do cli

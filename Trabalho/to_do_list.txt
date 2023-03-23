@@ -1,0 +1,3 @@
+-Criar fluxograma pra explicar o exclusive attribute
+-Marcar reuniões de QA pro exclusive attribute
+-Implementar o update do exclusive campaign id no send to campaign
